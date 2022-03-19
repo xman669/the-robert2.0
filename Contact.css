@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: linear-gradient(to right, #202327, black);
+  background-image: none;
 }
 
 .u-section-1 .u-sheet-1 {
@@ -12,7 +12,7 @@
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 383px;
+  min-height: 424px;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -49,7 +49,7 @@
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
-  margin: 23px 375px 0 0;
+  margin: 10px 375px 0 0;
 }
 
 .u-section-1 .u-btn-2 {

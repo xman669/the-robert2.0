@@ -68,7 +68,7 @@
     width: 340px;
   }
 } .u-section-2 {
-  background-image: linear-gradient(#202327, black);
+  background-image: none;
 }
 
 .u-section-2 .u-sheet-1 {
@@ -105,7 +105,7 @@
 }
 
 .u-section-2 .u-layout-cell-3 {
-  min-height: 200px;
+  min-height: 240px;
 }
 
 .u-section-2 .u-container-layout-3 {
@@ -114,8 +114,7 @@
 
 .u-section-2 .u-text-2 {
   font-weight: 400;
-  margin-bottom: 0;
-  margin-top: 0;
+  margin: 0;
 }
 
 @media (max-width: 1199px) {
@@ -136,7 +135,7 @@
   }
 
   .u-section-2 .u-layout-cell-3 {
-    min-height: 165px;
+    min-height: 198px;
   }
 }
 
@@ -192,7 +191,7 @@
     min-height: 119px;
   }
 } .u-section-3 {
-  background-image: linear-gradient(black, #202327);
+  background-image: none;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -214,8 +213,7 @@
 
 .u-section-3 .u-text-1 {
   font-weight: 400;
-  margin-bottom: 0;
-  margin-top: 0;
+  margin: 0 auto 0 0;
 }
 
 .u-section-3 .u-text-2 {
@@ -250,65 +248,47 @@
 
 .u-section-3 .u-text-8 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-9 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-10 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-11 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-12 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-13 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-14 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-15 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-text-16 {
   font-weight: 400;
-  margin-left: 0;
-  margin-right: auto;
-  margin-bottom: 0;
+  margin: 20px auto 0 0;
 }
 
 .u-section-3 .u-btn-1 {
