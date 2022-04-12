@@ -1,5 +1,4 @@
  .u-section-1 {
-  background-image: linear-gradient(white, #f2f2f2);
   min-height: 483px;
 }
 
@@ -29,14 +28,12 @@
 .u-section-1 .u-shape-1 {
   width: 30px;
   height: 368px;
-  background-image: none;
   margin: -459px auto 0 0;
 }
 
 .u-section-1 .u-shape-2 {
   width: 30px;
   height: 368px;
-  background-image: none;
   margin: -368px 0 39px auto;
 }
 
@@ -133,7 +130,12 @@
 
 .u-section-2 .u-custom-html-1 {
   margin-bottom: 0;
-  height: auto;
   min-height: 672px;
   margin-top: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-custom-html-1 {
+    height: auto;
+  }
 }
